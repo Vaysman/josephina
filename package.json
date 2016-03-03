@@ -1,0 +1,13 @@
+{
+  "name": "josephina",
+  "version": "0.0.0",
+  "description": "A jose example.",
+  "main": "server.js",
+  "repository": "git@github.com:Vaysman/josephina.git",
+  "author": "Mikhail Vaysman",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "license": "BSD-3-Clause"
+}
